@@ -1,0 +1,281 @@
+
+p.date
+{     
+     text-align: center;
+     color: #4b6c8b;
+     font-size: 10px;
+     font-family: Arial;
+     border-top-width: 0px;
+     border-right-width: 0px;
+     border-bottom-width: 0px;
+     border-left-width: 0px;
+     -webkit-border-horizontal-spacing: 0px;
+     -webkit-border-vertical-spacing: 0px;
+     width: 80px;
+     margin-left: 40em;
+}
+
+
+li
+{
+     display: block;
+     margin-block-start: 1em;
+     margin-block-end: 1em;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+}
+
+
+a.discord:hover
+{
+      text-decoration: underline;
+      cursor: pointer;
+      color: black;
+}
+
+
+a.discord
+{
+      padding-top: 2em;
+      cursor: pointer;
+      color: #0f4d91;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 11px;
+      text-align: center;
+ }
+
+a.menu:hover
+{
+      color: #0f4d91;
+}
+
+
+a.menu
+{
+      cursor: pointer;
+      text-decoration: none;
+      color: #FFFFFF;
+}
+
+
+a
+{
+     cursor: pointer;
+     text-decoration: none;
+     color: #1A46C6;
+}
+
+
+h3
+{
+     text-align: center;
+     color: #0268bd;
+     font-size: 15px;
+     font-family: Arial;
+     font-weight: bold;
+}
+
+
+img.dread
+{
+     font-size: 15px;
+     border-top-width: 0px;
+     border-right-width: 0px;
+     border-bottom-width: 0px;
+     border-left-width: 0px;
+     border-right-style: solid;
+     border-bottom-style: solid;
+     border-left-style: solid;
+     width: 80px;
+     height: 25px;
+     vertical-align: top;
+} 
+
+
+img.news
+{
+     font-size: 15px;
+     border-top-width: 0px;
+     border-right-width: 0px;
+     border-bottom-width: 0px;
+     border-left-width: 0px;
+     border-right-style: solid;
+     border-bottom-style: solid;
+     border-left-style: solid;
+     width: 80px;
+     height: 25px;
+     vertical-align: top;
+} 
+
+
+img.site
+{
+     width: 126px;
+     height: 39px;
+}
+
+
+img.saga
+{
+     width: 126px;
+     height: 39px;
+}
+
+
+img.topics
+{
+     display: block;
+     margin-left: 15em;
+     padding-top: 2em;
+     padding-bottom: 1em;
+     text-align: center;
+     width: 147px;
+     height: 23px;
+}
+
+
+ol.menu
+{
+     list-style: none;
+     color: #FFFFFF;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 10px;
+     margin: auto;
+}
+
+
+aside
+{
+     width: 127px;
+     vertical-align: top;
+     white-space: nowrap;
+     background-color: rgb(86, 86, 209);
+     margin-left: 84%;
+}
+
+
+nav
+{
+     width: 126px;
+     height: 10px;
+     vertical-align: top;
+}
+
+
+.article
+{
+      margin-left: 2em;
+      margin-right: 2em;
+}
+
+
+article
+{
+     display: table-row-group;
+     vertical-align: middle;
+     border-color: inherit;
+     margin-inline-start: auto;
+     margin-inline-end: auto;
+     width: 480px;
+     margin-left: 2em;
+     margin-right: 2em;
+}
+
+
+.news
+{
+     font-size: 1em;
+     margin-right: 3px;
+}
+
+
+.metroidprime
+{
+     text-align: justify;
+}
+
+
+.discord
+{
+     display: block;
+     text-align: center;
+}
+
+
+.berceau
+{
+     display: table-row;
+     vertical-align: inherit;
+     border-color: inherit;
+}
+
+.footer
+{
+     font-size: 0.50em;
+}
+
+
+footer
+{
+     display: table-row-group;
+     color: #FFFFFF;
+     font-size: 1em;
+     background-image: url("../planete_zebes_pics/bas.jpg");
+     text-align: center;
+}
+
+header
+{
+     display: table-row;
+     vertical-align: inherit;
+     border-color: inherit;
+}
+
+
+section
+{
+     display: block;
+     text-align: justify;
+     font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+     width: 517px;
+     background-color: rgb(255, 255, 255);
+     margin-inline-start: auto;
+     margin-inline-end: auto;
+     padding-top: 1em;
+} 
+
+
+main
+{
+     display: table-cell;
+     vertical-align: middle;
+     border-color: inherit;
+     margin-inline-start: auto;
+     margin-inline-end: auto;
+     width: 770px;
+     border-top-color: rgb(0, 0, 0);
+     border-right-color: rgb(0, 0, 0);
+     border-bottom-color: rgb(0, 0, 0);
+     border-left-color: rgb(0, 0, 0);
+     border-collapse: separate;
+     text-indent: initial;
+     white-space: normal;
+     line-height: normal;
+     font-weight: normal;
+     font-size: medium;
+     font-style: normal;
+     color: inherit;
+     text-align: start;
+     border-spacing: 2px;
+     font-variant: normal;
+}
+
+
+body
+{
+     margin: auto;
+     display: block;
+     background-color: black;
+     width: 60%;
+}

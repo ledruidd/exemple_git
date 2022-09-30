@@ -1,0 +1,75 @@
+*
+{
+      font-family: 'Times New Roman', Times, serif;
+      scroll-behavior: smooth;
+}
+h1
+{
+      text-align: center;
+}
+
+
+h2
+{
+      text-align: center;
+}
+form
+{
+       text-align: center;
+}
+
+table, td, th
+{
+      border: 1px black solid;
+}
+
+
+table
+{
+      border-collapse: collapse;
+      width: 100%;
+}
+
+#tableau
+{
+      margin-left: 20em;
+      margin-right: 20em;
+}
+
+
+tr:nth-child(odd)
+{
+      background: blue;
+}
+
+
+th
+{
+      background: white;
+}
+
+video
+{
+      width: 100%;
+}
+
+
+#multimedia article, h3
+{
+      display: grid;
+
+}
+
+iframe
+{
+      width: 100%;
+      height: 100%;
+}
+
+
+body
+{
+      margin: 0;
+      height: 100%;
+      margin: 0;
+}

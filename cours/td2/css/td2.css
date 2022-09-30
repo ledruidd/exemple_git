@@ -1,0 +1,111 @@
+body
+{
+     margin: 0;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     background: rgb(208, 204, 204);
+}
+
+main
+{
+     color: rgb(38, 38, 23);
+     margin: 20em 20em 20em 20em;
+     position: relative;
+}
+
+header
+{
+}
+
+
+article
+{
+      text-align: center;
+      background: beige;
+      padding: 4em 2em 4em 2em;
+      color: rgb(38, 38, 23);
+}
+
+
+h1
+{
+      font-size: x-large;
+      color: black;
+      text-align: center;
+
+}
+
+
+h2
+{
+     padding-top: 2em;
+     padding-bottom: 2em;
+     text-align: center;
+     margin: 0em 12em 0em 12em;
+     background-color: grey;
+     border-radius: 6em 6em 6em 6em;
+     color: whitesmoke;
+}
+
+
+li
+{
+      display: inline;
+}
+
+ul
+{
+     padding-top: 2em;
+     text-align: center;
+     list-style: none;
+     background: beige;
+}
+a:hover
+{
+     color: grey;
+}
+
+
+a
+{
+     color:rgb(38, 38, 23);
+     font-size: large;
+     text-decoration: none;
+}
+
+footer
+{
+     border: 2px grey solid;
+     background-color: grey;
+     color: whitesmoke;
+     text-align: center;
+     bottom: 0;
+     padding-bottom: 5em;
+     padding-left: 2em;
+     padding-right: 2em;
+    
+}
+
+nav
+{
+     padding-top: 2em;
+     padding-bottom: 2em;
+     display: inline;
+}
+
+
+nav:hover
+{
+      padding-top: 1em;
+      padding-bottom: 1em;
+}
+
+p
+{
+    padding-top: 3em;
+}
+
+
+div
+{
+     border: 2px grey solid;
+}

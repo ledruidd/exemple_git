@@ -1,0 +1,100 @@
+footer
+{
+     padding-top: 0.5em;
+     text-align: center;
+}
+
+
+.findesection
+{
+     background: red;
+     border: 1px black solid;
+     color: white;
+     padding-left: 4em;
+     padding-right: 4em;
+     margin-bottom: 1em;
+     font-size: 0.9em;
+
+}
+
+
+label
+{
+   font-weight: bold;
+}
+
+
+
+
+.adress, .nom
+{
+    text-align: left;
+    margin: auto;
+    padding-right: 2em;
+}
+
+
+.prenom, .email
+{
+     text-align: right;
+     margin: auto;
+}
+
+
+section
+{
+     margin-top: 2em;
+     padding-left: 7em;
+     padding-right: 7em;
+}
+
+
+
+main
+{
+    padding: 1em 1em 1em 1em;
+     margin: auto;
+     width: 60%;
+     background: white;
+}
+
+
+.hautdepage
+{
+     color: black;
+     font-size: 0.65em;
+     padding-bottom: 1em; 
+     margin-left: 3em;
+     margin-right: 3em;
+}
+
+
+h1
+{
+      text-align: center;
+      font-size: 1.8em;
+      position: relative;
+}
+
+
+header
+{
+
+      border-radius: 10px;
+      background: grey;
+      color: white;
+      margin-left: 4em;
+      margin-right: 4em;
+      padding-bottom: 0.3em;
+}
+
+
+body
+{
+     background: white;
+     margin: 0;
+     position: relative;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+

@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main
+{
+       border: 2px black solid;
+       background: black;
+}
+
+
+body
+{   
+     margin: 0%;
+     border: 2px grey solid;
+    /*background: url("../flexbox_pics"), no-repeat;*/
+}
